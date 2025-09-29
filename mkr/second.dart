@@ -12,3 +12,4 @@ double squareA2 = findSquare(squareA); // a^9
 double squareA3 = findSquare (squareA2); //a^27 
 double sum = squareA + squareA2 + squareA3;
 print('Результат: $sum');
+}
